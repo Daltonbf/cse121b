@@ -1,4 +1,4 @@
-const fullName = 'Braden Dalton';
+const fullName = '';
 const currentYear = 2024;
 const profilePicture = 'images/pic_of_me.jpg';
 

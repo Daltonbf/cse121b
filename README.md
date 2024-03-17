@@ -1,1 +1,1 @@
-https://daltonbf.github.io/cse121b/
+https://daltonbf.github.io/cse121b/index.html
